@@ -1,2 +1,2 @@
 # Python-Lab | Speech AI Roadmap
-Day 1 complete
+Day 1 – Environment test successful.
